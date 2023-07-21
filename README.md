@@ -1,5 +1,12 @@
 # Personal Scintilla-Based Transliterator
 
+![](images/STC_Transliterator_Preview_01.png)
+![](images/STC_Transliterator_Preview_02.png)
+![](images/STC_Transliterator_Preview_03.png)
+![](images/STC_Transliterator_Preview_04.png)
+![](images/STC_Transliterator_Preview_05.png)
+![](images/STC_Transliterator_Preview_06.png)
+
 This is an old personal application from 2015 (last edit in 2017), written in Python 2.7, using the wxPython 3.0 (https://wxpython.org/) library to create the graphical user interface (GUI), and the Cython compiler (http://cython.org/) to speed-up the main transliteration functions.
 
 My main motivation was to improve the great Russian-language online application for entering Cyrillic text with the Latin keyboard “Translit” (http://translit.net/) with a series of additional options that I needed in my daily work (learning the Russian language). I added to the capabilities of “Translit” the:
