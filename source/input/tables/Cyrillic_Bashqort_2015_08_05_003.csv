@@ -1,0 +1,89 @@
+ID;CYRILLIC;ASCII;HR;JANALIF;INALIF;INALIF2;UTA;IPA
+А;А;A;A;A;A;A;A;ɑ,ä
+а;а;a;a;a;a;a;a;ɑ,ä
+БЭ;Б;B;B;B;B;B;B;b,β
+бэ;б;b;b;ʙ;b;b;b;b,β
+ВЭ;В;V;V;V;V;V;V;v
+вэ;в;v;v;v;v;v;v;v
+ГЭ,ГЬ;Г;G;G;G;G;G;G;g
+гэ,гь;г;g;g;g;g;g;g;g
+ГЫ,ҒЫ,ГЪ;Ғ;GH;GH;Ƣ,Ĝ;GH;GH;Ğ;ɣ
+гы,ғы,гъ;ғ;gh;gh;ƣ,ĝ;gh;gh;ğ;ɣ
+ДЭ;Д;D;D;D;D;D;D;d
+дэ;д;d;d;d;d;d;d;d
+ЗЕ;Ҙ;DH;DH;DH;DH;DH;Ž,Ď;ð
+зе;ҙ;dh;dh;dh;dh;dh;ž,ď;ð
+Е;Е;E;E;E;E;E;E;je,e,jɪ̞,ɪ̞
+е;е;e;e;e;e;e;e;je,e,jɪ̞,ɪ̞
+Ё;Ё;JO;JO;JO;JO;YO;YO;jo
+ё;ё;jo;jo;jo;jo;yo;yo;jo
+ЖЭ;Ж;ZH;Ž;Ƶ;ZH;J;J;ʒ,ʐ
+жэ;ж;zh;ž;ƶ;zh;j;j;ʒ,ʐ
+ЗЭ;З;Z;Z;Z;Z;Z;Z;z
+зэ;з;z;z;z;z;z;z;z
+И;И;I;I;I;I;I;İ;i
+и;и;i;i;i;i;i;i;i
+ҠИҪКА (КРАТКОЕ) И;Й;J;J;J;J;Y;Y;j
+ҡиҫка (краткое) и;й;j;j;j;j;y;y;j
+КА,КЬ;К;K;K;K;K;K;K;k
+ка,кь;к;k;k;k;k;k;k;k
+КЫ,ҠЫ,КЪ;Ҡ;Q;Q;Q;Q;Q;Q;q
+кы,ҡы,къ;ҡ;q;q;q;q;q;q;q
+ЭЛЬ;Л;L;L;L;L;L;L;l,ɫ
+эль;л;l;l;l;l;l;l;l,ɫ
+ЭМ;М;M;M;M;M;M;M;m
+эм;м;m;m;m;m;m;m;m
+ЭН;Н;N;N;N;N;N;N;n
+эн;н;n;n;n;n;n;n;n
+ЭҢ,ҢЫ;Ң;NG;NG;Ꞑ,Ŋ;NG;N';Ñ;ŋ
+эң,ңы;ң;ng;ng;ꞑ,ŋ;ng;n';ñ;ŋ
+О;О;O;O;O;O;O;O;o,ʊ̞
+о;о;o;o;o;o;o;o;o,ʊ̞
+Ө;Ө;OE;OE;Ö,Ɵ;O';O';Ö;ø
+ө;ө;oe;oe;ö,ɵ;o';o';ö;ø
+ПЭ;П;P;P;P;P;P;P;p
+пэ;п;p;p;p;p;p;p;p
+ЭР;Р;R;R;R;R;R;R;r
+эр;р;r;r;r;r;r;r;r
+ЭС;С;S;S;S;S;S;S;s
+эс;с;s;s;s;s;s;s;s
+ҪЕ;Ҫ;TH;TH;TH;TH;TH;Š,Ť;θ
+ҫе;ҫ;th;th;th;th;th;š,ť;θ
+ТЭ;Т;T;T;T;T;T;T;t
+тэ;т;t;t;t;t;t;t;t
+У;У;U;U;U;U;U;U;u
+у;у;u;u;u;u;u;u;u
+Ү;Ү;YI,OU,OW;YI,OU,OW;Ü,У,W;U';U';Ü;y
+ү;ү;yi,ou,ow;yi,ou,ow;ü,y,w;u';u';ü;y
+ЭФ;Ф;PH,F;PH,F;F;F;F;F;f
+эф;ф;ph,f;ph,f;f;f;f;f;f
+ХА;Х;KH;KH;X;KH;X;X;χ
+ха;х;kh;kh;x;kh;x;x;χ
+ҺА,ҺЫ;Һ;HH;HH;H;H;H;H;h
+һа,һы;һ;hh;hh;h;h;h;h;h
+ЦЭ,ЦЫ;Ц;C;C;TS;C;C;Ț,TS;ʦ
+цэ,цы;ц;c;c;ts;c;c;ț,ts;ʦ
+ЧЕ;Ч;CH;Č,Ć;C;CH;CH;Ç;ʧ
+че;ч;ch;č,ć;c;ch;ch;ç;ʧ
+ША;Ш;SH;Š;Ş,Ç;SH;SH;Ş;ʃ,ʂ
+ша;ш;sh;š;ş,ç;sh;sh;ş;ʃ,ʂ
+ЩА;Щ;SHH,SHCH;ŠŠ,ŠČ,ŠĆ;ŞC;SHCH;SHCH;ŞÇ;ɕ
+ща;щ;shh,shch;šš,šč,šć;şc;shch;shch;şç;ɕ
+ЕР (ЙОМШАҠЛЫҠ,МЯГКИЙ);Ь;Y,'';Y,'';Ь;Ь;Ь;Ь;ʲ
+ер (йомшаҡлыҡ,мягкий);ь;y,';y,';ь;ь;ь;ь;ʲ
+ЕРЫ;Ы;YU,UI;YU,UI;Ƅ,Ə;Y;I';I;ɯ
+еры;ы;yu,ui;yu,ui;ƅ,ə;y;i';ı;ɯ
+ЕРЬ (ҠАТЫЛЫҠ,ТВЁРДЫЙ);Ъ;"X,""""";"X,""""";Ъ;Ъ;Ъ;Ъ;ʔ
+ерь (ҡатылыҡ,твёрдый);ъ;"x,""";"x,""";ъ;ъ;ъ;ъ;ʔ
+Э (ОБОРОТНОЕ);Э;EH;E;E;E;E;E;e
+э (оборотное);э;eh;e;e;e;e;e;e
+Ә;Ә;AE;AE;E,Ə,Э;A';A';Ä;æ
+ә;ә;ae;ae;e,ə,э;a';a';ä;æ
+Ю;Ю;JU;JU;JU,JY;JU;YU;YU;ju
+ю;ю;ju;ju;ju,jy;ju;yu;yu;ju
+Я;Я;JA;JA;JA,JƏ;JA;YA;YA;ja
+я;я;ja;ja;ja,jə;ja;ya;ya;ja
+CYRILLIC SHORT U;Ў;VH;VH;W;W;W;W;w
+cyrillic short u;ў;vh;vh;w;w;w;w;w
+CYRILLIC WE;Ԝ;WH;WH;Ԝ;Ԝ;Ԝ;Ԝ;w
+cyrillic we;ԝ;wh;wh;ԝ;ԝ;ԝ;ԝ;w

@@ -1,0 +1,85 @@
+ID;РУССКИЙ;RUSSWIN;RUSSCII;RUSSHR;GOST_2000_A;GOST_2000_B;GOST_1971_A;GOST_1971_B;GOST_2006;SCI;SCI_1905;SCI_1939;SCI_1951;UN_1987;BGN_1944_A;BGN_1944_B;PASS_1997_A;PASS_1997_B;MVD_1996_A;MVD_1996_B;TEL;BSI_1958;ALA_LC
+CAPITAL A;А;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A;A
+SMALL A;а;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a;a
+CAPITAL E;Э;E;E;E;È,Ê;E`;È;EH;E;È;E;E;E;È;E;E;E;E;E;E;E;É;Ė
+SMALL E;э;e;e;e;è,ê;e`;è;eh;e;è;e;e;e;è;e;e;e;e;e;e;e;é;ė
+CAPITAL YERU;Ы;Y;UI,Y;UI,Y;Y;Y`;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Y;Ȳ,Y,UI;Y
+SMALL YERU;ы;y;ui,y;ui,y;y;y`;y;y;y;y;y;y;y;y;y;y;y;y;y;y;y;ȳ,y,ui;y
+CAPITAL O;О;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O;O
+SMALL O;о;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o;o
+CAPITAL U;У;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U;U
+SMALL U;у;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u;u
+CAPITAL YA;Я;YA;JA;JA;Â;YA;Â;JA;IA;JA;ĬA,JA;JA;’A,JA;JA;YA;YA;YA;YA;YA;YA;IA;YA;IA
+SMALL YA;я;ya;ja;ja;â;ya;â;ja;ia;ja;ĭa,ja;ja;’a,ja;ja;ya;ya;ya;ya;ya;ya;ia;ya;ia
+CAPITAL IE;Е;YE;JE;JE;E;E;E;JE;E;E;E,JE;E,JE;E,JE;E;E;YE;YE;YE;E;YE;E;E;E
+SMALL IE;е;ye;je;je;e;e;e;je;e;e;e,je;e,je;e,je;e;e;ye;e;ye;e;ye;e;e;e
+CAPITAL I;И;YI;JI;JI;I;I;I;I;I;I;I,JI;I,JI;I,JI;I;I;I;I;I;I;YI;I;I;I
+SMALL I;и;yi;ji;ji;i;i;i;i;i;i;i,ji;i,ji;i,ji;i;i;i;i;i;i;yi;i;i;i
+CAPITAL IO;Ё;YO;JO;JO;Ë;YO;Ë;JO;E;Ë;ĬO,JO;JO,O;’O,JO,O;Ë;Ë,E;YË,YE;E;YE;E;YO,YE;E;Ë,E;Ë,E
+SMALL IO;ё;yo;jo;jo;ë;yo;ë;jo;e;ë;ĭo,jo;jo,o;’o,jo,o;ë;ë,e;yë,ye;e;ye;e;yo,ye;e;ë,e;ë,e
+CAPITAL YU;Ю;YU;JU;JU;Û;YU;Û;JU;IU;JU;ĬU,JU;JU;’U,JU;JU;YU;YU;YU;YU;YU;YU;IU;YU;IU
+SMALL YU;ю;yu;ju;ju;û;yu;û;ju;iu;ju;ĭu,ju;ju;’u,ju;ju;yu;yu;yu;yu;yu;yu;iu;yu;iu
+CAPITAL YAT;Ѣ;IE;#E;#E;Ě;YE;Ѣ;Ѣ;Ѣ;Ě;Ѣ;Ѣ;Ѣ;Ě;Ѣ;Ѣ;Ѣ;Ѣ;Ѣ;Ѣ;Ѣ;Ѣ;Ѣ
+SMALL YAT;ѣ;ie;#e;#e;ě;ye;ѣ;ѣ;ѣ;	ě;ѣ;ѣ;ѣ;ě;ѣ;ѣ;ѣ;ѣ;ѣ;ѣ;ѣ;ѣ;ѣ
+CAPITAL BYELORUSSIAN-UKRAINIAN I;І;I;#I;#I;І;І;І;І;І;І;І;І;І;І;І;І;І;І;І;І;І;І;І
+SMALL BYELORUSSIAN-UKRAINIAN I;і;i;#i;#i;ì;i,i`;ì;ih ;і;і;і;і;і;ĭ;і;і;і;і;і;і;і;і;і
+CAPITAL SHORT I;Й;J;J;J;J;J;J;JJ;I;J;J;J;J;J;Y;Y;Y;Y;Y;Y;I;Ĭ,I;Ĭ,I
+SMALL SHORT I;й;j;j;j;j;j;j;jj;i;j;j;j;j;j;y;y;y;y;y;y;i;ĭ,i;ĭ,i
+CAPITAL JE;Ј;JJ;#J;#J;Ј,J̌;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј;Ј
+SMALL JE;ј;jj;#j;#j;ǰ;j;ј;ј;ј;ј;ј;ј;ј;Ĭ;ј;ј;ј;ј;ј;ј;ј;ј;ј
+CAPITAL KA;К;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K;K
+SMALL KA;к;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k;k
+CAPITAL HA;Х;KH;KH;H;H;KH,X;H,CH;KH;KH;X,CH;CH;H;CH;H;KH;KH;KH;KH;KH;KH;H;KH;KH
+SMALL HA;х;kh;kh;h;h;kh,x;h,ch;kh;kh;ch,x;ch;h;ch;h;kh;kh;kh;kh;kh;kh;h;kh;kh
+CAPITAL EF;Ф;PH;F,PH;F,PH;F;F;F;F;F;F;F;F;F;F;F;F;F;F;F;F;F;F;F
+SMALL EF;ф;ph;f;f;f;f;f;f;f;f;f;f;f;f;f;f;f;f;f;f;f;f;f
+CAPITAL ZE;З;Z;Z;Z;Z;Z;Z;Z;Z;Z;Z;Z;Z;Z;Z;Z;Z;ZH;Z;Z;Z;Z;Z
+SMALL ZE;з;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z;z
+CAPITAL ZHE;Ж;ZJ;ZH;Ž;Ž;ZH;Ž;ZH;ZH;Ž;Ž;Ž;Ž;Ž;ZH;ZH;ZH;ZH;ZH;ZH;J;ZH;ZH
+SMALL ZHE;ж;zj;zh;ž;ž;zh;ž;zh;zh;ž;ž;ž;ž;ž;zh;zh;zh;zh;zh;zh;j;zh;zh
+CAPITAL TSE;Ц;C;C;C;C;CZ,C;C;C;TC;C;C;C;C;C;TS;TS;TS;TS;TS;TS;C;TS;TS
+SMALL TSE;ц;c;c;c;c;cz,c;c;c;tc;c;c;c;c;c;ts;ts;ts;ts;ts;ts;c;ts;ts
+CAPITAL CHE;Ч;CJ;CH;Č,Ć;Č;CH;Č;CH;CH;Č;Č;Č;Č;Č;CH;CH;CH;CH;CH;CH;CH;CH;CH
+SMALL CHE;ч;cj;ch;č,ć;č;ch;č;ch;ch;č;č;č;č;č;ch;ch;ch;ch;ch;ch;ch;ch;ch
+CAPITAL SHA;Ш;SJ;SH;Š;Š;SH;Š;SH;SH;Š;Š;Š;Š;Š;SH;SH;SH;SH;SH;SH;SH;SH;SH
+SMALL SHA;ш;sj;sh;š;š;sh;š;sh;sh;š;š;š;š;š;sh;sh;sh;sh;sh;sh;sh;sh;sh
+CAPITAL SHCHA;Щ;SJJ;SHH,SHCH;ŠŠ,ŠČ,ŠĆ;Ŝ;SHCH,SHH;Ŝ,ŠČ;SHH;SHCH;ŠČ;ŠČ;ŠČ;ŠČ;ŠČ;SHCH;SHCH;SHCH;SHCH;SHCH;SHCH;SC;SHCH;SHCH
+SMALL SHCHA;щ;sjj;shh,shch;šš,šč,šć;ŝ;shch,shh;ŝ,šč;shh;shch;šč;šč;šč;šč;šč;shch;shch;shch;shch;shch;shch;sc;shch;shch
+CAPITAL BE;Б;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B;B
+CAPITAL VE;В;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V;V
+CAPITAL GHE;Г;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G;G
+CAPITAL DE;Д;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D;D
+CAPITAL EL;Л;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L;L
+CAPITAL EM;М;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M;M
+CAPITAL EN;Н;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N;N
+CAPITAL PE;П;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P;P
+CAPITAL ER;Р;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R;R
+CAPITAL ES;С;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S;S
+CAPITAL TE;Т;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T;T
+CAPITAL HARD SIGN;Ъ;X;;;;;;’;’;’;;;;;;;;;;;;;
+SMALL HARD SIGN;ъ;x;;;;;’;’;’;;;;;;;;;;;;;;
+CAPITAL SOFT SIGN;Ь;HJ;;;;;;;;;Ĭ,';J,';;;;;;;;;;;
+SMALL SOFT SIGN;ь;hj;;;;;;;;;ĭ,’;j,’;’;;;;;;;;;;
+SMALL BE;б;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b;b
+SMALL VE;в;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v;v
+SMALL GHE;г;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g;g
+SMALL DE;д;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;d;v;d;d;d;d;d
+SMALL EL;л;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l
+SMALL EM;м;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m;m
+SMALL EN;н;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n;n
+SMALL PE;п;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p;p
+SMALL ER;р;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r;r
+SMALL ES;с;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s;s
+SMALL TE;т;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t;t
+CAPITAL FITA;Ѳ;F;#F;#F;F̀;FH;Ѳ;Ѳ;Ѳ;F;Ѳ;Ѳ;Ѳ;Ḟ;Ѳ;Ѳ;Ѳ;Ѳ;Ѳ;Ѳ;Ѳ;Ѳ;Ѳ
+SMALL FITA;ѳ;f;#f;#f;f̀;fh;ѳ;ѳ;ѳ;f;ѳ;ѳ;ѳ;ḟ;ѳ;ѳ;ѳ;ѳ;ѳ;ѳ;ѳ;ѳ;ѳ
+CAPITAL IZHITSA;Ѵ;YH;#Y;#Y;Ỳ;YH;Ѵ;Ѵ;Ѵ;I;Ѵ;Ѵ;Ѵ;Ẏ;Ѵ;Ѵ;Ѵ;Ѵ;Ѵ;Ѵ;Ѵ;Ѵ;Ѵ
+SMALL IZHITSA;ѵ;yh;#y;#y;ỳ;yh;ѵ;ѵ;ѵ;i;ѵ;ѵ;ѵ;ẏ;ѵ;ѵ;ѵ;ѵ;ѵ;ѵ;ѵ;ѵ;ѵ
+CAPITAL SCHWA;Ə;Ə;#EE;#EE;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə;Ə
+SMALL SCHWA;ə;ə;#ee;#ee;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə;ə
+MODIFIER SMALL J;ʲ;ʲ;#jj;#jj;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ;ʲ
+NUMBER SIGN;#;#;##;##;#;#;#;#;#;#;#;#;#;#;#;#;#;#;#;#;#;#;#
+COMBINING ACUTE ACCENT;́;́;!1;!1;́;́;́;́;́;́;́;́;́;́;́;́;́;́;́;́;́;́;́
+COMBINING MACRON;̄;̄;!2;!2;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄;̄
+COMBINING CARON;̌;̌;!3;!3;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌;̌
+COMBINING DIAERESIS;̈;̈;!4;!4;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈;̈
