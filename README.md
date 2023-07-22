@@ -77,5 +77,5 @@ with:
 
 [3] In the same folder make a new file, "distutils.cfg", in which write the following:
 
-  [build]\
-  compiler=msvc
+	[build]\
+	compiler=msvc
