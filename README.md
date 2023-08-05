@@ -2,7 +2,7 @@
 
 (Note that this project was abandoned long ago, with the last build on my Windows machine in 2017. There's a new version, developed in C#, that will have its own GitHub repository soon.)
 
-You can see the transliterator in action on YouTube: https://www.youtube.com/watch?v=Kry-ZyZy8fs
+You can see the transliterator in action on YouTube: https://www.youtube.com/watch?v=VKv-T3hqlGY
 
 ![](images/STCTransliterator_Preview_01.png)
 ![](images/STCTransliterator_Preview_02.png)
